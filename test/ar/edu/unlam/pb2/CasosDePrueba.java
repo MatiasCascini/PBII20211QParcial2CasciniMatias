@@ -177,7 +177,8 @@ public class CasosDePrueba {
 		vital.agregarAlCarrito(numeroDeVenta, 1);
 		vital.agregarAlCarrito(numeroDeVenta, 1);
 		vital.agregarAlCarrito(numeroDeVenta, 1);
-		
+		//profe, este no funca y es por el remove del "quitarStock" solamente, no encuentra el producto y si lo 
+		//pongo con un contador tampoco, solo eso. Saludos!
 	}
 	
 	@Test 
